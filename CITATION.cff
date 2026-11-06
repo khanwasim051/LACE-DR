@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "LACE-DR: Local Adaptive Contrastive Encoding with Distributionally-Robust Reconstruction for Anomaly Detection in Attributed Networks"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/khanwasim051/LACE-DR"
+authors:
+  - family-names: Khan
+    given-names: Wasim
+  - family-names: Butalia
+    given-names: Ayesha
+  - family-names: Deshmukh
+    given-names: Suruchi
+  - family-names: Khatkale
+    given-names: Pravin B.
+  - family-names: Bombale
+    given-names: Girisha Ramhari
+  - family-names: Kale
+    given-names: Rashmi B.

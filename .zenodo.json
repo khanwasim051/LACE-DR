@@ -1,0 +1,16 @@
+{
+  "title": "LACE-DR: Local Adaptive Contrastive Encoding with Distributionally-Robust Reconstruction for Anomaly Detection in Attributed Networks",
+  "description": "Implementation of LACE-DR, an unsupervised node-anomaly detector for attributed graphs, and the scripts that reproduce the LACE-DR results reported in the accompanying paper (anomaly injection, training, evaluation, robustness and ablation studies).",
+  "upload_type": "software",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": ["graph anomaly detection", "attributed networks", "unsupervised learning", "graph neural networks", "contrastive learning", "Mahalanobis distance"],
+  "creators": [
+    {"name": "Khan, Wasim", "affiliation": "Symbiosis Institute of Technology Pune, Symbiosis International (Deemed University), Pune, India"},
+    {"name": "Butalia, Ayesha", "affiliation": "School of Computing, MIT Art, Design and Technology University, Pune, India"},
+    {"name": "Deshmukh, Suruchi", "affiliation": "Department of Computer Science and Engineering, MIT Art, Design and Technology University, Pune, India"},
+    {"name": "Khatkale, Pravin B.", "affiliation": "Department of Computer Science Engineering, Sanjivani University, Maharashtra, India"},
+    {"name": "Bombale, Girisha Ramhari", "affiliation": "Department of Computer Engineering, SND College of Engineering and Research Centre, Nashik, India"},
+    {"name": "Kale, Rashmi B.", "affiliation": "Department of Computer Engineering, Vishwakarma Institute of Technology, Pune, India"}
+  ]
+}
