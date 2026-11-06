@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+results/
+data/planetoid/
+data/*.mat
+*.npz
+.ipynb_checkpoints/
