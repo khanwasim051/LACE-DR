@@ -21,8 +21,6 @@ Python 3.10–3.13.
 pip install -r requirements.txt
 ```
 
-The results in the paper were obtained with TensorFlow 2.20 on CPU. No GPU is required.
-
 ## Data
 
 Cora, Citeseer and PubMed are downloaded automatically on first use. BlogCatalog must be placed in `data/BlogCatalog.mat` (see `data/README.md`).
@@ -91,9 +89,6 @@ As discussed in the paper, LACE-DR does not detect purely structural anomalies o
 
 Small numerical differences can occur across hardware and TensorFlow versions. On Cora, we obtained identical results on a 2-core Intel Xeon CPU and on a Windows laptop.
 
-## Computational cost
-
-On a 2-core Intel Xeon CPU (2.80 GHz), one training epoch takes about 0.6 s on Cora, 0.8 s on Citeseer, 4.7 s on PubMed and 7.8 s on BlogCatalog, and scoring all nodes takes 0.16–1.24 s. The cost grows with the number of nodes and the average 2-hop neighbourhood size.
 
 ## Repository structure
 
